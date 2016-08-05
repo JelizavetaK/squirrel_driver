@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['raw_5fbc_5fdata',['raw_bc_data',['../structts__bc__data__t.html#a8e71d9309c0fa5bd3beb7858abec08e9',1,'ts_bc_data_t']]],
+  ['readdata',['readData',['../classCommPacket.html#acfbdf172f5c1bb253fa233c8cb511b1c',1,'CommPacket']]],
+  ['readoffset',['readOffset',['../classCommPacket.html#a60450b8010984130c7201eae743fec99',1,'CommPacket']]],
+  ['recvfromtcpsocket',['recvFromTCPSocket',['../classTCPCommPacket.html#aa052371902af3f7f5c55e78b4a69061d',1,'TCPCommPacket']]],
+  ['recvfromudpsocket',['recvFromUDPSocket',['../classUDPCommPacket.html#a92991750b824fe37b30f4e0637492db6',1,'UDPCommPacket']]],
+  ['reply_5factive_5fboards',['REPLY_ACTIVE_BOARDS',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430aaf0f72793e43b2a16ad047d1c05ca71a',1,'CommProtocol.hpp']]],
+  ['reply_5faverage_5fsamples',['REPLY_AVERAGE_SAMPLES',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430a1f1bc539f8fb4c1ae2896217fe1645cc',1,'CommProtocol.hpp']]],
+  ['reply_5fbcast_5fpolicy',['REPLY_BCAST_POLICY',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430ac240d77877bada5093f7db0cff545d66',1,'CommProtocol.hpp']]],
+  ['reply_5fbcast_5frate',['REPLY_BCAST_RATE',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430a73c545440341f4467b41184345355f22',1,'CommProtocol.hpp']]],
+  ['reply_5fboard_5ffault',['REPLY_BOARD_FAULT',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430a5fa150db2c3f52c7276f0427811fc85d',1,'CommProtocol.hpp']]],
+  ['reply_5fboard_5ftype',['REPLY_BOARD_TYPE',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430af2ec1115c0369294da6dc2ccb1d96377',1,'CommProtocol.hpp']]],
+  ['reply_5fcal_5ftemp',['REPLY_CAL_TEMP',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430ae4f4248985591c415d90ea837d88af04',1,'CommProtocol.hpp']]],
+  ['reply_5fcalibration_5foffsets',['REPLY_CALIBRATION_OFFSETS',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430a45279a940a3d1845f6ec1e294a76a955',1,'CommProtocol.hpp']]],
+  ['reply_5fcheck_5fprotocol_5fmt',['REPLY_CHECK_PROTOCOL_MT',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430a26cb57b3172f232c5566a228dd61fb2f',1,'CommProtocol.hpp']]],
+  ['reply_5fconversion_5ffactors',['REPLY_CONVERSION_FACTORS',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430a6db71eaf981779bc0fd9b63c01f78a39',1,'CommProtocol.hpp']]],
+  ['reply_5fethernet_5fport',['REPLY_ETHERNET_PORT',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430a5ead29dd7269e8a8d1ef4cb35dde7d85',1,'CommProtocol.hpp']]],
+  ['reply_5ffirmware_5fversion',['REPLY_FIRMWARE_VERSION',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430ab6c1da7f79254593e6ad4d85c6de7048',1,'CommProtocol.hpp']]],
+  ['reply_5fip_5faddr',['REPLY_IP_ADDR',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430aa2504e9ada48a23a5f412946440b9ba6',1,'CommProtocol.hpp']]],
+  ['reply_5fmatrix_5frow',['REPLY_MATRIX_ROW',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430a4c0083ff541417c1232e4501093f0a67',1,'CommProtocol.hpp']]],
+  ['reply_5fnet_5fmask',['REPLY_NET_MASK',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430ad613bfbb59e9ae085cc8d4f0885086ab',1,'CommProtocol.hpp']]],
+  ['reply_5fresolution',['REPLY_RESOLUTION',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430ad853bc9aea827c1ff3c552509db98650',1,'CommProtocol.hpp']]],
+  ['reply_5ftemp_5ffactors',['REPLY_TEMP_FACTORS',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430a7a00cb6f24b391c5a90d336123e74f11',1,'CommProtocol.hpp']]],
+  ['resetboard',['resetBoard',['../classBoards__ctrl.html#af4ed5f6b2965ec0821cbaf5395f74082',1,'Boards_ctrl']]],
+  ['rx_5fudp',['rx_udp',['../classBoards__ctrl.html#a46e9bb2f807e553c6c29f34238a6f31a',1,'Boards_ctrl']]]
+];

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>ft17_driver</name>
+  <version>0.0.0</version>
+  <description>The ft17_driver package</description>
+
+  <license>proprietary</license>
+
+  <maintainer email="jelizaveta@todo.todo">jelizaveta</maintainer>
+  <author>Nadia Hammoudeh Garcia</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>dpkg</build_depend>
+
+</package>

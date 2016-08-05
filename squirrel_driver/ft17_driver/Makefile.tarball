@@ -1,0 +1,9 @@
+all: ft17_driver
+
+ft17_driver:
+	# create link to lib depending on version (32-bit)
+	cd common/lib && ln -sf `uname -m`/* .
+clean:
+	rm common/lib/*.a
+wipe: clean
+	-rm common/lib/*.a

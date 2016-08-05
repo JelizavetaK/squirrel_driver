@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['get_5factive_5fboards',['GET_ACTIVE_BOARDS',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430a8b4c20bb22617d778b183327914e70c0',1,'CommProtocol.hpp']]],
+  ['get_5faverage_5fsamples',['GET_AVERAGE_SAMPLES',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430ac97c3b5fb907f8c27ea8831e575d3ead',1,'CommProtocol.hpp']]],
+  ['get_5fbcast_5fpolicy',['GET_BCAST_POLICY',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430a0a2fc024b09310bed6af7e1945802f47',1,'CommProtocol.hpp']]],
+  ['get_5fbcast_5frate',['GET_BCAST_RATE',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430ad3b9fa80975aab14e566399dfce1247b',1,'CommProtocol.hpp']]],
+  ['get_5fboard_5ffault',['GET_BOARD_FAULT',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430a539c7321d1b5b0667bb0ae797f5d7cdf',1,'CommProtocol.hpp']]],
+  ['get_5fboard_5ftype',['GET_BOARD_TYPE',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430ac8dd6101acf7967c153cf8dbb903ef34',1,'CommProtocol.hpp']]],
+  ['get_5fcal_5ftemp',['GET_CAL_TEMP',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430a24fe1824eb86905051f38a8fc6cba8fa',1,'CommProtocol.hpp']]],
+  ['get_5fcalibration_5foffsets',['GET_CALIBRATION_OFFSETS',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430a7f9a98552ae225f7c65a0ba2e266e1a6',1,'CommProtocol.hpp']]],
+  ['get_5fconversion_5ffactors',['GET_CONVERSION_FACTORS',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430a6244ce25d8ea244d260129aaf6bff091',1,'CommProtocol.hpp']]],
+  ['get_5fethernet_5fport',['GET_ETHERNET_PORT',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430a16b1c27bb66615ca1762d21a84361d09',1,'CommProtocol.hpp']]],
+  ['get_5ffirmware_5fversion',['GET_FIRMWARE_VERSION',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430ac5068dfe23c6f805dcb4848a4bc2b9cd',1,'CommProtocol.hpp']]],
+  ['get_5fip_5faddr',['GET_IP_ADDR',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430ac2fc377bb3c2c2dd6183fffbb005c99a',1,'CommProtocol.hpp']]],
+  ['get_5fmatrix_5frow',['GET_MATRIX_ROW',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430a9d3ea73e8f0ff650f9fce999cd2a80b1',1,'CommProtocol.hpp']]],
+  ['get_5fnet_5fmask',['GET_NET_MASK',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430aa5565e4d6eb573e1c4c57e47fa415fe7',1,'CommProtocol.hpp']]],
+  ['get_5fresolution',['GET_RESOLUTION',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430adb1f001325dc8c5f8956a6d86e1c9268',1,'CommProtocol.hpp']]],
+  ['get_5ftemp_5ffactors',['GET_TEMP_FACTORS',['../CommProtocol_8hpp.html#a1939e90743463fb34c8c571ec0590430a363913e2da7bac310b3cce931e728d50',1,'CommProtocol.hpp']]]
+];
