@@ -7,6 +7,15 @@ using namespace std;
 
 int main(int argc,char** argv){
 
+#define AUTOTEST
+#ifdef AUTOTEST
+#include "../include/squirrel_sensing_node/Classificator.h"
+//hijack execution for testing purposes
+    Classificator classy;
+    classy.autotest();
+    return 2;
+#endif
+
     if(argc<ParamNum){
         cout << "Error starting sensing node. Correct syntax:" << endl;
         cout << "rosrun squirrel_sensing_node sensing [arduino_port_name] [ft17_port_name]" << endl;	//<----Liza: check if the node name is correct

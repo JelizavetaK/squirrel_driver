@@ -29,7 +29,8 @@ include_directories(
 
 add_executable(sensing src/main.cpp
 		       src/node.cpp
-		       src/sensing_drivers.cpp)
+		       src/sensing_drivers.cpp
+		       src/Classificator.cpp)
 
 target_link_libraries(sensing 
 			FT17_driver
